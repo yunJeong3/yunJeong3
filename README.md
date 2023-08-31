@@ -29,9 +29,9 @@
 <br/>
 <br/>
 <br/> 
-  <h3 align="center">🌈 Follow Me </h3>
+  <!-- <h3 align="center">🌈 Follow Me </h3> -->
   <br>
 <p align="center">
-<!--   <a href="mailto:dldbswjd889@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Naver&logoColor=black&link=dldbswjd889@naver.com"/></a> -->
+<!--   <a href="mailto:dldbswjd889@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white&link=dldbswjd889@naver.com"/></a> -->
 </p>  
 </div>
